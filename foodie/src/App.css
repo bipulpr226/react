@@ -33,3 +33,20 @@ transform: scale(1.1);
     margin: 4px 2px;
     cursor: pointer;
   }
+
+  .custom_input{
+width:100%;
+max-width: 500px;
+padding:10px;
+border-radius:25px;
+
+  }
+  .shimmerLine{
+    height:10px;
+    background-color: #f0eeee;
+  }
+  .shimmerImg{
+    height: 200px;
+    width:100%;
+    background-color: #f0eeee;
+  }

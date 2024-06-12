@@ -10,8 +10,7 @@ const Restaurantcard = ({cloudinaryImageId,name,sla,avgRating,cuisines,areaName}
         <img src={IMG_URL+cloudinaryImageId}/>
         
        
-        {/* //src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/e2ej0ob56z47oylq9mkb"/>  */}
-        {/* <h1></h1> */}
+       
     </div>
      <div className="px-2">
       {/* <h4>{name}</h4> */}
